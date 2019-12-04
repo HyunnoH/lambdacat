@@ -1,0 +1,25 @@
+{
+  "name": "lambdacat",
+  "version": "0.0.1",
+  "description": "A discord chatbot on 'code&talks unofficial associate discord'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunnoH/lambdacat.git"
+  },
+  "keywords": [
+    "lambdacat"
+  ],
+  "author": "HyunnoH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyunnoH/lambdacat/issues"
+  },
+  "homepage": "https://github.com/HyunnoH/lambdacat#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
